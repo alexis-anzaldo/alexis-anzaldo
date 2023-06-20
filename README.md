@@ -4,8 +4,6 @@ I'm Alexis Anzaldo, a Ph.D. researcher passionate about exploring the world of d
 
 Feel free to reach out if you'd like to discuss data science, machine learning, or any other related topics. 
 
-Thank you for your interest and support
-
 ---
 
 #### 📚 Portfolio
