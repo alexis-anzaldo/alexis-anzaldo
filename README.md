@@ -1,7 +1,10 @@
 ### Hi there! 👋 
-I'm Alexis Anzaldo, a Ph.D. researcher with a passion for exploring the world of data science. I specialize in radio resource management and reinforcement learning.
 
-Currently, I'm open to opportunities in the Machine Learning and Data Science industry.
+I'm Alexis Anzaldo, a Ph.D. researcher passionate about exploring the world of data science. I specialize in radio resource management and reinforcement learning. I'm always open to connecting with like-minded professionals in the industry. 
+
+Feel free to reach out if you'd like to discuss data science, machine learning, or any other related topics. 
+
+Thank you for your interest and support
 
 ---
 
