@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-I'm Alexis Anzaldo, a Ph.D. researcher passionate about exploring the world of data science. I specialize in radio resource management and reinforcement learning. I'm always open to connecting with like-minded professionals in the industry. 
+I'm Alexis Anzaldo, a Data Scientist with expertise in radio resource management and reinforcement learning. Currently working on deep learning and computer vision. I'm always open to connecting with like-minded professionals in the industry. 
 
 Feel free to reach out if you'd like to discuss data science, machine learning, or any other related topics. 
 
@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to discuss data science, machine learning, 
 
 #### 🛠️ Skills
 
-- Programming: Python (Numpy, Pytorch, Matplotlib, Pandas, Seaborn), SQL, HTML/CSS
+- Programming: Python (tensorflow, Numpy, Pytorch, Matplotlib, Pandas, Seaborn), SQL, HTML/CSS
 - Tools: Microsoft Office, Power BI, Matlab, Labview
 
 
