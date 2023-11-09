@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to discuss data science, machine learning, 
 
 #### 🛠️ Skills
 
-- Programming: Python (tensorflow, Numpy, Pytorch, Matplotlib, Pandas, Seaborn), SQL, HTML/CSS
+- Programming: Python (tensorflow, Pytorch, scikit-learn, OpenCV, Pandas, Seaborn), SQL, HTML/CSS
 - Tools: Microsoft Office, Power BI, Matlab, Labview
 
 
