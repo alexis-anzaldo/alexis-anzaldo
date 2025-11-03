@@ -9,10 +9,10 @@ I’m passionate about creating practical AI systems, mentoring others, and expl
 ---
 
 #### 📚 Portfolio  
-You can explore my portfolio website [here](https://alexis-anzaldo.github.io/)
+You can explore my portfolio website <a href="https://alexis-anzaldo.github.io/" target="_blank" rel="noopener noreferrer">here</a>.
 
 #### 💻 Research  
-Check out my research work on my [Google Scholar profile](https://scholar.google.com/citations?user=A6LpV7cAAAAJ&hl=en&oi=ao)
+Check out my research work on my <a href="https://scholar.google.com/citations?user=A6LpV7cAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
 
 ---
 
@@ -27,11 +27,10 @@ Check out my research work on my [Google Scholar profile](https://scholar.google
 
 #### 📧 Contact  
 
-- **LinkedIn:** [linkedin.com/in/alexis-anzaldo/](https://www.linkedin.com/in/alexis-anzaldo/)  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/alexis-anzaldo/" target="_blank" rel="noopener noreferrer">linkedin.com/in/alexis-anzaldo/</a>  
 - **Email:** ancalexis@hotmail.com  
 
 ---
 
 Thanks for visiting my GitHub!  
 Feel free to connect or explore my projects — always open to collaborations in **AI, Data Science, and Computer Vision**.
-
