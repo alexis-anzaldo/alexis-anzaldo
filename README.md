@@ -1,34 +1,37 @@
-### Hi there! 👋 
+### Hi there! 👋  
 
-I'm Alexis Anzaldo, a Data Scientist with expertise in radio resource management and reinforcement learning. Currently working on deep learning and computer vision. I'm always open to connecting with like-minded professionals in the industry. 
+I'm **Alexis Anzaldo, PhD**, a **Data Science Lead** specializing in **AI and Computer Vision**.  
+I design, develop, and deploy **end-to-end machine learning solutions** that optimize production and inspection workflows.  
+My expertise spans **Deep Learning, MLOps, and LLM Engineering**, combining technical depth with leadership experience.  
 
-Feel free to reach out if you'd like to discuss data science, machine learning, or any other related topics. 
-
----
-
-#### 📚 Portfolio
-
-* You can explore my portfolio website <a href="https://alexis-anzaldo.github.io/" target="_blank">here</a>
-
-#### 💻 Research
-
-* Check out my research work on my <a href="https://scholar.google.com/citations?user=A6LpV7cAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>
-
-
-#### 🛠️ Skills
-
-- Programming: Python (tensorflow, Pytorch, scikit-learn, OpenCV, Pandas, Seaborn), SQL, HTML/CSS
-- Tools: Microsoft Office, Power BI, Matlab, Labview
-
-
-#### 📧 Contact Information
-
-Feel free to reach out to me via the following channels:
-
-- LinkedIn: <a href="https://www.linkedin.com/in/alexis-anzaldo/" target="_blank">linkedin.com/in/alexis-anzaldo/</a>
-
-- Email: ancalexis@hotmail.com
+I’m passionate about creating practical AI systems, mentoring others, and exploring emerging technologies like **Generative AI** and **AI Agents**.  
 
 ---
 
-Thank you for visiting my GitHub frontpage! Don't hesitate to connect with me or explore my projects. Let's collaborate and make meaningful contributions in the field of data science!
+#### 📚 Portfolio  
+You can explore my portfolio website [here](https://alexis-anzaldo.github.io/)
+
+#### 💻 Research  
+Check out my research work on my [Google Scholar profile](https://scholar.google.com/citations?user=A6LpV7cAAAAJ&hl=en&oi=ao)
+
+---
+
+#### 🛠️ Skills  
+
+- **Programming:** Python (TensorFlow, PyTorch, Scikit-Learn, OpenCV, Pandas, NumPy), SQL  
+- **AI Techniques:** CNNs, YOLO, Transfer Learning, Reinforcement Learning, LLMs (fine-tuning, embeddings, prompt engineering)  
+- **Tools & Platforms:** FastAPI, Dagster, Git, Power BI, Matlab, LabVIEW  
+- **Domains:** Computer Vision, MLOps, End-to-End ML Deployment, AI System Design  
+
+---
+
+#### 📧 Contact  
+
+- **LinkedIn:** [linkedin.com/in/alexis-anzaldo/](https://www.linkedin.com/in/alexis-anzaldo/)  
+- **Email:** ancalexis@hotmail.com  
+
+---
+
+Thanks for visiting my GitHub!  
+Feel free to connect or explore my projects — always open to collaborations in **AI, Data Science, and Computer Vision**.
+
